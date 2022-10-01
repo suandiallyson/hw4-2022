@@ -126,7 +126,7 @@ nav li a:focus {
 
 .skip a:focus {
   position: absolute;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 /* Step 3: Write selector/rule property to style all elements when in focus*/
